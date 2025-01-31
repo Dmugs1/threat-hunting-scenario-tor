@@ -115,7 +115,7 @@ DeviceNetworkEvents
 - **Account:** employee  
 
 ### Tor Browser Process Creation
-**Timestamp:** January 28, 2025, 04:13:07 AM  
+**Timestamp:** January 28, 2025, 3:34:01 AM  
 **Event:** Execution of tor.exe.  
 **Details:**  
 - **File Path:** C:\Users\Employee\Desktop\Tor Browser\Browser\Tor Browser\tor.exe  
